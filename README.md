@@ -3,9 +3,9 @@
 </div>
 
 <p align='center'> 
-<a href="https://www.linkedin.com/in/jasmine-nelson/"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/linkedin%20icon.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/JasOverFlow"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/twitter%20icon.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/jasoverflow/"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/instagram%20icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jasmine-nelson/"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/linkedin%20icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jasoverflow/"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/instagram%20icon.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JasOverFlow"><img height="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/twitter%20icon.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ## About me
