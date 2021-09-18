@@ -13,7 +13,7 @@
 - :octocat: Pronouns: she/her
 - 🚀 I'm a Software Engineering Intern at NASA
 - 👩🏾‍💻 I study computer science at John Carroll University
-- 👀 I’m interested in software development, UX/UI design, cybersecurity, robotics, and machine learning
+- 👀 I’m interested in software development, UX/UI design, cybersecurity, XR, and machine learning
 - 🌱 I’m currently learning GCP
 - 🤔 Need some help with technical interviews
 - 💭 Let's get to know each other!
