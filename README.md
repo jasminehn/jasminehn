@@ -12,7 +12,7 @@
 - 👋🏾 Hi, I'm Jasmine!
 - :octocat: Pronouns: she/her
 - 🚀 I'm currently a Software Engineering Intern at NASA Jet Propulsion Laboratory
-- 👩🏾‍💻 I studed computer science at John Carroll University
+- 👩🏾‍💻 I studied computer science at John Carroll University
 - 👀 I’m interested in software development, UX/UI design, cybersecurity, XR, and machine learning
 - 🌱 I’m currently learning Three.js
 - 💭 Let's get to know each other!
