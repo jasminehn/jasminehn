@@ -4,14 +4,14 @@
 
 <p align='center'>
   <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-403B3B?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-242121?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jasminehn.visitor-badge" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jasminehn.visitor-badge&right_color=green" alt="visitor badge"/>
 </p>
 
 ## About me
