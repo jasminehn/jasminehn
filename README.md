@@ -2,11 +2,12 @@
   <h1>👋 Hello World!</h1>
 </div>
 
-<p align='center'> 
-  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+<p align='center'>
+  <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-403B3B?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 ## About me
@@ -35,6 +36,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
