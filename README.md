@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img width="35" src="https://github.com/jasminehn/jasminehn/blob/main/icons/waving-hand_1f44b.gif?raw=true"> Hello World!</h1>
+  <h1><img width="35" src="https://github.com/jasminehn/jasminehn/blob/main/icons/waving-hands.gif?raw=true"> Hello World!</h1>
 </div>
 
 <p align='center'>
