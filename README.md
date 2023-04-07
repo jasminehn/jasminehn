@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="40" src="https://user-images.githubusercontent.com/88569965/230680457-cdd1ec98-4d50-4489-a8e1-0dba05c7dc72.png">
-  <h1>👋 Hello World!</h1>
+  <h1><img width="35" src="https://github.com/jasminehn/jasminehn/blob/main/icons/waving-hand_1f44b.gif?raw=true"> Hello World!</h1>
 </div>
 
 <p align='center'>
