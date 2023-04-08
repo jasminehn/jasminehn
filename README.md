@@ -16,7 +16,7 @@
 
 ## About me
 - :octocat: Hi, I'm Jasmine!
-- 🚀 Working as a Software Engineering Intern at NASA Jet Propulsion Laboratory
+- 🚀 Working as a Software Engineer at NASA Jet Propulsion Laboratory
 - 👩🏾‍💻 Studied computer science at John Carroll University
 - 👀 Interested in software development, UX/UI design, XR, and machine learning
 - 🌱 Currently learning Three.js
