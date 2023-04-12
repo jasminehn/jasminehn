@@ -11,7 +11,7 @@
 </p>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jasminehn.visitor-badge&right_color=green" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jasminehn.visitor-badge&right_color=green" alt="visitor badge is temporarily down :("/>
 </p>
 
 ## About me
