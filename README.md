@@ -29,7 +29,7 @@
 
 ## Skillset
 - Back-end architecture
-- Web development
+- Web design
 - VR/AR applications
 - Cloud computing
 - Game development
