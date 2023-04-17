@@ -24,7 +24,7 @@
 
 ## Stats
 [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminehn&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminehn&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminehn&theme=radical&layout=compact&langs_count=6&hide=c,shaderlab,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
 <!---[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)-->
 
 ## Skillset
@@ -55,6 +55,7 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
