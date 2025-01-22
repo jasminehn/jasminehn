@@ -3,11 +3,11 @@
 </div>
 
 <p align='center'>
-  <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&logo=About.me&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&logo=artifacthub&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-242121?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
 <p  align="center">
@@ -76,7 +76,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-04648c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=000000)](https://aws.amazon.com/)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=000000)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
