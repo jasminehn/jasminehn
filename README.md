@@ -3,16 +3,19 @@
 </div>
 
 <p align='center'>
-  <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&logo=artifacthub&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-242121?style=for-the-badge&logo=codepen&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://jasminehn.github.io/"><img src="https://img.shields.io/badge/website-6b12d0?style=for-the-badge&amp;logo=artifacthub&amp;logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://codepen.io/jasminehn"><img src="https://img.shields.io/badge/Codepen-242121?style=for-the-badge&amp;logo=codepen&amp;logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/jasmine-nelson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=inspire&amp;logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/jasoverflow/"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/JasOverFlow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=x&amp;logoColor=white"></a>&nbsp;&nbsp;
 </p>
 
-<p  align="center">
+<!-- <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=jasminehn.visitor-badge&right_color=green" alt="visitor badge is temporarily down :("/>
-</p>
+</p> -->
+<div align='center'>
+  <a href=""><img src="https://komarev.com/ghpvc/?username=jasminehn&&amp;color=brightgreen"></a>
+</div>
 
 ## About me
 - :octocat: Hi, I'm Jasmine!
@@ -79,7 +82,9 @@
 [![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=000000)](https://aws.amazon.com/)
 [![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![JUnit](https://img.shields.io/badge/JUnit-DC524A?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![NUnit](https://img.shields.io/badge/NUnit-005b0b?style=for-the-badge&logo=.net&logoColor=white)](https://nunit.org/)
 
 
 
