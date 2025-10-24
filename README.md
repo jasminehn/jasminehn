@@ -17,6 +17,10 @@
   <a href=""><img src="https://komarev.com/ghpvc/?username=jasminehn&&amp;color=brightgreen"></a>
 </div>
 
+
+<!-- the gif below has spacing issues with  -->
+<!--<img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/spinning-star.gif?raw=true"> -->
+
 ## About me
 - :octocat: Hi, I'm Jasmine!
 - 🚀 Working as a Software Engineer at NASA Jet Propulsion Laboratory
@@ -25,10 +29,14 @@
 - 🌱 Currently learning Three.js
 - 💭 Let's get to know each other!
 
+<!-- <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true"> -->
+
 ## Stats
 [![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminehn&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminehn&theme=radical&layout=compact&langs_count=6&hide=c,shaderlab,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
-<!---[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)-->
+
+<img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true">
 
 ## Skillset
 - Cross-platform development
@@ -38,6 +46,8 @@
 - VR/AR applications
 - Full-stack development
 - UI/UX design
+
+<!-- <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/purple-flame.gif?raw=true"> -->
 
 ## Tech stack
 #### Languages: 
