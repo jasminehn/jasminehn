@@ -23,7 +23,7 @@
 
 ## About me
 - :octocat: Hi, I'm Jasmine!
-- 🚀 Working as a Software Engineer at NASA Jet Propulsion Laboratory
+- 🚀 Working as a Software Engineer at NASA Johnson Space Center (contractor via Navteca)
 - 👩🏾‍💻 Studied computer science at John Carroll University
 - 👀 Interested in software development, UX/UI design, XR, and machine learning
 - 🌱 Currently learning Three.js
