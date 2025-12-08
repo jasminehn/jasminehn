@@ -32,8 +32,8 @@
 <!-- <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true"> -->
 
 ## Stats
-[![Jasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasminehn&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasminehn&theme=radical&layout=compact&langs_count=6&hide=c,shaderlab,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
+[![Jasmine's GitHub stats](https://github-readme-stats-three-jet-55.vercel.app/api?username=jasminehn&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats-three-jet-55.vercel.app/api/top-langs/?username=jasminehn&theme=radical&layout=compact&langs_count=6&hide=c,shaderlab,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)-->
 
 <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true">
