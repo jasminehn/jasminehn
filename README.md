@@ -41,8 +41,8 @@
 ## Skillset
 - Cross-platform development
 - Web programming
+- CI/CD pipelines
 - Systems administration
-- Game development
 - VR/AR applications
 - Full-stack development
 - UI/UX design
@@ -54,48 +54,48 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=000000)](https://www.java.com/en/)
 [![C#](https://img.shields.io/badge/C%23-2f086d?style=for-the-badge&logo=sharp&logoColor=a47ddd)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
-[![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
+[![HTML](https://img.shields.io/badge/HTML-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-ffffff?style=for-the-badge&logo=mssqlserver-white&logoColor=CC2927)](https://www.iso.org/standard/76583.html/)
+[![Sass](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff)](https://sass-lang.com/)
 [![R](https://img.shields.io/badge/R-75AADB?style=for-the-badge&logo=r&logoColor=1a5faf)](https://www.r-project.org/)
 
 #### Frameworks/Libraries:
-[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/stable/)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)](#)
 
 #### Tools:
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=ef660d)](https://about.gitlab.com/)
-[![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=accenture&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=accenture&logoColor=white)](https://visualstudio.microsoft.com/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=f7941e)](https://www.eclipse.org/ide/)
 [![Figma](https://img.shields.io/badge/Figma-f76e5f?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
+[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=Bruno&logoColor=black)](https://www.usebruno.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/mysql-04648c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff)](https://www.npmjs.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=000000)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Meta XR SDK](https://img.shields.io/badge/Meta_XR_SDK-%231A1A1A.svg?style=for-the-badge&logo=oculus&logoColor=white)](https://developers.meta.com/horizon/documentation/unity/unity-sdks-overview/)
 [![JUnit](https://img.shields.io/badge/JUnit-DC524A?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![NUnit](https://img.shields.io/badge/NUnit-005b0b?style=for-the-badge&logo=.net&logoColor=white)](https://nunit.org/)
-
 
 
 
