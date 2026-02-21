@@ -25,7 +25,7 @@
 - :octocat: Hi, I'm Jasmine!
 - 🚀 Working as a Software Engineer at NASA Johnson Space Center (contractor via Navteca)
 - 👩🏾‍💻 Studied computer science at John Carroll University
-- 👀 Interested in software development, UX/UI design, XR, and machine learning
+- 👀 Interested in software engineering, UX/UI design, XR, and game development
 - 🌱 Currently learning Three.js
 - 💭 Let's get to know each other!
 
