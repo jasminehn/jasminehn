@@ -23,11 +23,10 @@
 
 ## About me
 - :octocat: Hi, I'm Jasmine!
-- 🚀 Working as a Software Engineer at NASA Johnson Space Center (contractor via Navteca)
+- 🚀 Working as a Software Engineer for NASA Johnson Space Center (contractor via Navteca)
 - 👩🏾‍💻 Studied computer science at John Carroll University
 - 👀 Interested in full-stack development, UX/UI design, XR, and game development
-- 🌱 Currently learning Vue.js
-- 💭 Let's get to know each other!
+- 🌱 Currently learning Vue.js!
 
 <!-- <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true"> -->
 
@@ -39,10 +38,11 @@
 <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/rolling-pokeball.gif?raw=true">
 
 ## Skillset
-- Cross-platform development
+- Web development
 - CI/CD pipelines
 - Systems administration
 - VR application development
+- QA and unit testing
 - API-driven UI development
 
 <!-- <img align="right" alt="pokeball"  height="50" width="50" src="https://github.com/jasminehn/jasminehn/blob/main/icons/purple-flame.gif?raw=true"> -->
